@@ -17,8 +17,8 @@ import com.amazonaws.services.sqs.AmazonSQSClient;
 public class AmazonServicesConnectionUtils {
 	
 	//Hard coded credentials which should later be moved to properties file 
- 	private static final String accessKey = "AKIAJVDQUIE5PZLJMMHA";
-	private static final String secretKey = "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";
+ 	private static final String accessKey = "";
+	private static final String secretKey = "";
     private static final Region usEast1 = Region.getRegion(Regions.US_WEST_2);
 
     /**
